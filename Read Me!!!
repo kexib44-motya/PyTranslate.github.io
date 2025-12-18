@@ -1,0 +1,8 @@
+A program for quick text translation.
+Works in 2 directions.
+
+Instructions:
+For the translation you are going to send: you need to select the desired text, then press Ctrl+C and then Shift+Alt+Q.
+To translate another person's text: select the text, press Ctrl+C, and then Shift+Alt+E and the translation will appear in notifications.
+
+To exit the program you need to press: Shift+Alt+R.
